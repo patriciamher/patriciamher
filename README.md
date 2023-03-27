@@ -1,4 +1,8 @@
+![image](https://user-images.githubusercontent.com/116925420/228062792-b4e93d87-7446-472d-900d-8c3093260f14.png)
+
 ### Hi there 👋
+
+I'm a software engineer from Boston. 
 
 <!--
 **patriciamher/patriciamher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
