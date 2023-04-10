@@ -2,6 +2,7 @@
 
 <!--
 **patriciamher/patriciamher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![logoName v3](https://user-images.githubusercontent.com/116925420/230964385-db1dd627-5123-49c3-bc02-88d63cf027b4.png)
 
 Here are some ideas to get you started:
 
