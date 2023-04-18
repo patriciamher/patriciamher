@@ -13,5 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there 👋
 
 ![logoName v3](https://user-images.githubusercontent.com/116925420/230967659-f29b8834-eabd-4d93-aa22-c011d5fbed0e.png)
+
+
