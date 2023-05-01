@@ -23,9 +23,9 @@ Here are some ideas to get you started:
  -->
 - 🌱 I’m currently learning **MongoDB and Express.**
 
-- 👨‍💻 All of my coding projects are available at [this website](https://patricia-hernandez.netlify.app/)
+- 👨‍💻 All of my coding projects are available at [this website](https://patricia-hernandez.netlify.app/).
 
-- 📫 How to reach me **hernandezpatriciam@hotmail.com**
+- 📫 How to reach me **hernandezpatriciam@hotmail.com**.
 
 - ⚡ Fun fact I enjoy hiking and being in nature!
 
