@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact I enjoy hiking and being in nature!
 
 - 📄 Know about my experiences: [My Resume](https://www.canva.com/design/DAFho-gCp7w/YHiVwoEcLNAgXFbCtktFbg/edit?utm_content=DAFho-gCp7w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- 
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/patriciamhern" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jzhang_dev" height="30" width="40" /></a>
